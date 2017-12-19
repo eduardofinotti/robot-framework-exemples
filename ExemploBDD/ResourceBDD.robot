@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 
 *** Variable ***
-${BROWSER}              firefox
+${BROWSER}              chrome
 ${URL}                  https://robotizandotestes.blogspot.com.br/  
 ${CABEÇALHO}            Header1
 ${BOTAO_LUPA}           css=.search-expand.touch-icon-button    
